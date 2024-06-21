@@ -1,7 +1,7 @@
 package main
 
 import (
-	"main/integration"
+	"gokucoin/integration"
 )
 
 func main() {
